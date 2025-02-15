@@ -34,7 +34,7 @@ layers:
   - G
   - $$mdi:arrow-left-bold$$
   - H
-  - '&j_to_esc'
+  - J
   - {t: K, h: '$$mdi:apple-keyboard-option$$'}
   - {t: L, h: RGUI}
   - {t: ;, h: '$$mdi:apple-keyboard-shift$$', s: ':'}
@@ -172,7 +172,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - '&deu_low_a_umlaut'
   - '&deu_ss'
-  - '&deu_low_o_umlaut'
+  - '&deu_low_u_umlaut'
   - '&deu_low_o_umlaut'
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -229,7 +229,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - '4'
+  - {t: '4', s: $}
   - {t: '5', s: '%'}
   - {t: '6', s: ^}
   - {t: '$$mdi:backspace$$', type: backspace}
@@ -281,8 +281,8 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
   - HOME
-  - PG UP
   - PG DN
+  - PG UP
   - END
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -294,8 +294,8 @@ layers:
   - '&mkp MB4'
   - {t: '$$mdi:menu-left$$', s: '$$mdi:mouse$$'}
   - $$mdi:arrow-left-bold$$
-  - $$mdi:arrow-up-bold$$
   - $$mdi:arrow-down-bold$$
+  - $$mdi:arrow-up-bold$$
   - $$mdi:arrow-right-bold$$
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
